@@ -1,0 +1,4 @@
+INFO:root:Try to add to cart good 142907858
+INFO:root:account found
+WARNING:selenium.webdriver.common.selenium_manager:The chromedriver version (117.0.5938.149) detected in PATH at /opt/homebrew/bin/chromedriver might not be compatible with the detected chrome version (118.0.5993.117); currently, chromedriver 118.0.5993.70 is recommended for chrome 118.*, so it is advised to delete the driver in PATH and retry
+INFO:root:try to choose order point
